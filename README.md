@@ -24,5 +24,4 @@ emoticons removed. Data file format has 6 fields:
 
 ![image](https://github.com/rivanachristie/Twitter-Sentiment-Analysis/assets/98617715/18673178-6dff-4135-b5fe-26defa233681)
 
-
-
+# Baseline Machine Learning Models
